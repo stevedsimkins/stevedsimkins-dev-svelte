@@ -23,5 +23,8 @@
 		"svelte-typewriter": "^3.0.2",
 		"vite": "^3.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@sveltejs/adapter-vercel": "^1.0.0-next.66"
+	}
 }
