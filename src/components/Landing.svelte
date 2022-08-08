@@ -22,4 +22,9 @@
       margin: 0 auto;
     }
   }
+  @media screen and (max-height: 800px){
+    .container {
+      height: 80vh;
+    }
+  }
 </style>

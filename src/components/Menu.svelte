@@ -54,4 +54,11 @@ a:hover::before {
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
 
+  @media screen and (max-height: 800px){
+    
+    .container {
+      height: 80vh;
+    }
+}
+
 </style>
